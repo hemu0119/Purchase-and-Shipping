@@ -10,7 +10,7 @@ The dashboard enables stakeholders to monitor procurement activities, identify p
 
 ## 🌐 Live Dashboard
 
-👉 [View Dashboard]((https://1drv.ms/x/c/6c4a1b40c97817db/IQBHpigv-qt-SpB3xWYb4bajAbYrQD6XCPftBojolpvfwLw?e=Wpin0V))
+👉 [View Dashboard](https://1drv.ms/x/c/6c4a1b40c97817db/IQBHpigv-qt-SpB3xWYb4bajAbYrQD6XCPftBojolpvfwLw?e=C2dQCw)
 
 ---
 
